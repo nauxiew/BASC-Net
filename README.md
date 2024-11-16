@@ -2,7 +2,7 @@
 Here is a pytorch implementation of BASC-Net (https://iopscience.iop.org/article/10.1088/1361-6560/ad6ace/meta).
 
 # Configuration Environment
-The pre-trained model of the backbone can be downloaded from https://drive.google.com/file/d/1jSfvNDa60Kq5_KhoUuTKEQX-QbW4RCzn/view
+The pre-trained model of the backbone can be downloaded from [this link](https://drive.google.com/file/d/1jSfvNDa60Kq5_KhoUuTKEQX-QbW4RCzn/view).
 
 # Train & Test
 
